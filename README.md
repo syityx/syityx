@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm SYIT 👋
 
 <!--
 **syityx/syityx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+西安电子科技大学 通信工程 （2027届 硕士）
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syityx/syityx/output/github-contribution-grid-snake-dark.svg">
