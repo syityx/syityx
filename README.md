@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ### 西安电子科技大学（本硕 27届）
 ### 目前正在寻找 *后端开发 \ Agent应用开发* 实习岗位 🤗
  `Spring Boot` `Redis` `MySQL` `MyBatis` `RocketMQ`
@@ -22,7 +23,7 @@ Here are some ideas to get you started:
  `LangChain` `Spring AI` `FastAPI` `SSE` `RAG` `Chroma` `MCP` `LoRA` 
 
  `Copilot` `Codex`
-
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syityx/syityx/output/github-contribution-grid-snake-dark.svg">
