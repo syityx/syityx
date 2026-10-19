@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 
 一款将鼠标手势与 AI 视觉理解结合的 Windows 桌面应用。指向屏幕上的文字、按钮、图片或图表，通过快捷手势即可调用 AI **解释、翻译、改写或回答问题**，不必反复切换窗口和手动整理上下文。
 
-### 🎓 [NoneBot XDU Support](https://github.com/longchengguxiao/nonebot_plugin_xdu_support)
+### 🎓 [NoneBot XDU Support](https://github.com/longchengguxiao/nonebot_plugin_xdu_support) ![Contributor](https://img.shields.io/badge/Contributor-6E40C9?style=flat)
 
 **西电校园服务插件 · Python / NoneBot2**
-> as contributor
 
 GitHub 主页置顶的校园服务开源项目，基于 NoneBot2，将多种校园信息查询与提醒能力集成到聊天机器人中，为日常校园场景提供方便的交互入口。
 
@@ -33,6 +32,10 @@ GitHub 主页置顶的校园服务开源项目，基于 NoneBot2，将多种校�
 **Java Web 全栈项目 · Spring Boot / Redis / RocketMQ / MinIO / FFmpeg**
 
 围绕视频内容管理与上传构建的前后端项目，包含独立的[后端仓库](https://github.com/syityx/server)和[前端仓库](https://github.com/syityx/Video-Frontend)。项目将 Web 服务、对象存储、消息队列与视频处理工具整合到同一个业务场景中。
+
+### 🔐 [西电选课脚本](https://github.com/syityx/XDxk) ![Private](https://img.shields.io/badge/Private-30363D?style=flat)
+
+
 
 
 
